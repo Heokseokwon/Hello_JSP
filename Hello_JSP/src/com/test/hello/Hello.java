@@ -9,6 +9,7 @@ public class Hello {
        //012456:end
 		
       //0215238:origin/master edit by kim
+
       System.out.println("GitHub edit");
 	  
       // 031524: local/master edit by kim
@@ -18,6 +19,13 @@ public class Hello {
       
       
       
+
+      System.out.println("GitHub edit");
+	         
+	      //0412518:origin/master edit by kim
+	      System.out.println("GitHub edit 4567");
+	
+
 	}
 
 }
