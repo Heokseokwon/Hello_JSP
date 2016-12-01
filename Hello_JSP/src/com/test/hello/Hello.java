@@ -26,6 +26,14 @@ public class Hello {
 	      System.out.println("GitHub edit 4567");
 	
 
+
+       
+       //023659:hotfic edit by kim
+       System.out.println("불휘,지영 지각하지마!");
+       //023659 end
+       
+       
+       
 	}
 
 }
